@@ -1,0 +1,20 @@
+.botton{
+    background-color: #4cd8298f;
+    color: #fbfdfd;
+    border: none;
+    border-radius: 10px;
+ }
+
+ .input{
+    border: none;
+    color: black;
+    background-color: aliceblue;
+    height: 35px;
+    border-radius: 10px;
+    width: auto;
+ }
+ .position{
+    display: flex;
+    flex-direction: row;
+    margin-top: 5px;
+ }

@@ -1,0 +1,24 @@
+.box{
+    background-color: rgba(189, 131, 181, 0.349);
+    border: 3px rgb(242, 242, 247) inset;
+    border-radius: 15px;
+    height: 350px;
+    width: 400px;
+    margin-left: 37%;
+    margin-top: 7%;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-size: 50px;
+}
+.contents{
+    margin-left: 20%;
+    color: black;
+    font-size:20px;
+}

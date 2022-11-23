@@ -1,0 +1,43 @@
+.box{
+    border: 3px rgb(242, 242, 247) inset;
+    border-radius: 10px;
+    background-color: rgba(245, 250, 245, 0.233);
+    width: 300px;
+    height: 200px;
+    margin-top: 50px;
+ }
+ 
+ .botton{
+     background-color: rgb(240, 77, 77);
+     color: white;
+     border-radius: 3px;
+     border: none;
+     width: 25px;
+     height: 25px;
+     margin-top: 5px;
+     margin-left: 260px;
+ }
+
+
+ .title{
+     font-size: 30px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     display: flex;
+     justify-content: center;
+     color: aliceblue;
+     margin-top: 1px;
+ }
+ 
+ .section{
+     float: left;
+     font-family: 'Times New Roman', Times, serif;
+     margin-left: 40px;
+     color: aliceblue;
+     padding-top: 5px;
+ }
+ 
+ .icon{
+    margin-left: 30px;
+    background-color: rgba(189, 131, 181, 0.349);
+    border-radius: 100%;
+ }
